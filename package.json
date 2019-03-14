@@ -1,7 +1,7 @@
 {
   "name": "sessionstorage-bug",
   "version": "1.0.0",
-  "description": "reproducing an issue",
+  "description": "Reproducing an issue I'm having with redux-sessionstorage",
   "main": "package.json",
   "scripts": {
     "dev": "next",
