@@ -1,0 +1,22 @@
+{
+  "name": "sessionstorage-bug",
+  "version": "1.0.0",
+  "description": "reproducing an issue",
+  "main": "package.json",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Shawn Inder <shawninder@gmail.com>",
+  "license": "none",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-sessionstorage": "^0.4.0"
+  }
+}
