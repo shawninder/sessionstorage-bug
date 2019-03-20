@@ -27,3 +27,7 @@ It seems that in the particular case of a render triggered by hydration from ses
 ## Question
 
 How can I make sure that updates made by the redux-sessionstorage package correctly update the attributes as well as the nodes themselves?
+
+## Fix
+
+https://github.com/shawninder/sessionstorage-bug/pull/1
